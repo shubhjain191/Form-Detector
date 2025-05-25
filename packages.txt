@@ -42,3 +42,12 @@ vs2015_runtime=14.29.30133
 xz=5.4.6
 zlib=1.2.13
 zstd=1.5.5
+python3-opencv
+ffmpeg
+libsm6
+libxext6
+libgl1-mesa-glx
+libglib2.0-0
+libxrender1
+libfontconfig1
+libice6
